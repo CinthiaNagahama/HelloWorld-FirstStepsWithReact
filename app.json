@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "hello-world",
+    "slug": "snack-e17ff160-a512-4a48-b5cc-22ed7ba2ca25",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "First app here. Just messing around :D\n\nTested:\n- Typical Hello World\n- Minimalist Weather App"
+  }
+}
